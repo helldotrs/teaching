@@ -1,0 +1,23 @@
+numbers_list  = [0,1,2,3,4,5,6,7,8,9]
+sum_even      = 0
+
+for item in numbers_list {
+    if item is even{
+        sum_even = sum_even + item
+    }
+}
+
+print sum_even
+
+# result should be 20 (0+2+4+6+8)
+
+# alternative solution:
+
+numbers_list  = [0,1,2,3,4,5,6,7,8,9]
+sum_even      = 0
+
+for item in numbers_list {
+    if even(item){
+        sum_even = sum_even + item
+    }
+}
