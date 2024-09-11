@@ -1,3 +1,5 @@
+#note that until version 04, the answers are case sensitive, so "Lasagna" wont match with "lasagna" 
+
 score = 0
 
 if( input("what is garfields favorite food?") == "lasagna"):
