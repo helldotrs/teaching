@@ -6,7 +6,7 @@ if( input("what is garfields favorite food?") == "lasagna"):
 else:
     print("wrong :(")
 
-if( input("what day does garfield hate?") == "monday" OR "mondays"):
+if( input("what day does garfield hate?") == "monday"):
     score += 1
     print("correct!")
 else:
