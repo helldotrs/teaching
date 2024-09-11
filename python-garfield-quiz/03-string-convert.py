@@ -22,7 +22,6 @@ ask_question("what day does garfield hate?", "monday")
 print("quiz complete!! your final score is: " str(score))
 
 """not important for now: list of things to add:
-str(score)
 lower(input())
 read questions and answers from a list (2d list / dict / tuple)
 """
