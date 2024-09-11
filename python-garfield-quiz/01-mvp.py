@@ -16,7 +16,7 @@ print("quiz complete!! your score is: ")
 print(score)
 
 """not important for now: list of things to add:
-answer_check_function()
+ask question function
 str(score)
 lower(input())
 read questions and answers from a list (2d list / dict / tuple)
